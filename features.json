@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "44",
+    "canonicalKey": "44",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "m/44"
+    ],
+    "sourceProjects": [
+      "aave-protocol-v2"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "aave-protocol-v2",
+        "path": "buidler.config.ts:102",
+        "route": "m/44",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "aave-protocol-v2",
+        "path": "hardhat.config.ts:199",
+        "route": "m/44",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Addnetwork",
+    "canonicalKey": "addnetwork",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/addnetwork"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/addnetwork/index.jsx",
+        "route": "/addnetwork",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Analyze Proposal Language",
+    "canonicalKey": "analyze language proposal",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/analyze-proposal-language"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:538",
+        "route": "/analyze-proposal-language",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Apathy Prediction",
+    "canonicalKey": "apathy prediction",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/apathy-prediction"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/apathyPrediction.js:58",
+        "route": "/apathy-prediction",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Auto Generate Proposal",
+    "canonicalKey": "auto generate proposal",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/auto-generate-proposal"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:580",
+        "route": "/auto-generate-proposal",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Borrow",
+    "canonicalKey": "borrow",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/borrow"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/borrow/index.jsx",
+        "route": "/borrow",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cborrow",
+    "canonicalKey": "cborrow",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/continue/cborrow"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/Header/Header.jsx:34",
+        "route": "/continue/cborrow",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/continue/cborrow.jsx",
+        "route": "/continue/cborrow",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cdeposit",
+    "canonicalKey": "cdeposit",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/continue/cdeposit"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/Header/Header.jsx:30",
+        "route": "/continue/cdeposit",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/continue/cdeposit.jsx",
+        "route": "/continue/cdeposit",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cf Delegate Quality Scoring",
+    "canonicalKey": "cf delegate quality scoring",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfDelegateQualityScoring"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/CfDelegateQualityScoring.js",
+        "route": "/CfDelegateQualityScoring",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cf Governance Evolution Tracking",
+    "canonicalKey": "cf evolution governance tracking",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfGovernanceEvolutionTracking"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/CfGovernanceEvolutionTracking.js",
+        "route": "/CfGovernanceEvolutionTracking",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cf Treasury Scenario Modeling",
+    "canonicalKey": "cf modeling scenario treasury",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfTreasuryScenarioModeling"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/CfTreasuryScenarioModeling.js",
+        "route": "/CfTreasuryScenarioModeling",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cf Voter Apathy Prediction",
+    "canonicalKey": "apathy cf prediction voter",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfVoterApathyPrediction"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/CfVoterApathyPrediction.js",
+        "route": "/CfVoterApathyPrediction",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Cf Voter Education Deliberation",
+    "canonicalKey": "cf deliberation education voter",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfVoterEducationDeliberation"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/CfVoterEducationDeliberation.js",
+        "route": "/CfVoterEducationDeliberation",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Continue",
+    "canonicalKey": "continue",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/enz/yield/continue",
+      "/withdraw/continue"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/yield/continue.jsx",
+        "route": "/enz/yield/continue",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/withdraw/continue/index.jsx",
+        "route": "/withdraw/continue",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Dao Summary",
+    "canonicalKey": "dao summary",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/dao-summary"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:630",
+        "route": "/dao-summary",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Data Page",
+    "canonicalKey": "data",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/DataPage"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/DataPage.js",
+        "route": "/DataPage",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Delegate Network",
+    "canonicalKey": "delegate network",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/delegate-network"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:78",
+        "route": "/delegate-network",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Delegate Quality",
+    "canonicalKey": "delegate quality",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/delegate-quality"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/delegateQuality.js:58",
+        "route": "/delegate-quality",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Delegate Recommendations",
+    "canonicalKey": "delegate recommendation",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/delegate-recommendations"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/ai.js:105",
+        "route": "/delegate-recommendations",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Deposit",
+    "canonicalKey": "deposit",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/deposit"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/deposit/index.jsx",
+        "route": "/deposit",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Detail View",
+    "canonicalKey": "detail view",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/DetailView"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/DetailView.js",
+        "route": "/DetailView",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Events Summary",
+    "canonicalKey": "events summary",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/events-summary"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:685",
+        "route": "/events-summary",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap Daos Events Lack AI Endpoints",
+    "canonicalKey": "ai daos endpoint events gap lack",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapDaosEventsLackAiEndpoints"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapDaosEventsLackAiEndpoints.js",
+        "route": "/GapDaosEventsLackAiEndpoints",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap Limited Governance Platform Integrations No Snapshot Aragon",
+    "canonicalKey": "aragon gap governance integrations limited no snapshot",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapLimitedGovernancePlatformIntegrationsNoSnapshotAragon"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapLimitedGovernancePlatformIntegrationsNoSnapshotAragon.js",
+        "route": "/GapLimitedGovernancePlatformIntegrationsNoSnapshotAragon",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Blockchain Integration Ethereum Polygon For On Chain Prop",
+    "canonicalKey": "blockchain chain ethereum for gap integration no on polygon prop",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoBlockchainIntegrationEthereumPolygonForOnChainProp"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapNoBlockchainIntegrationEthereumPolygonForOnChainProp.js",
+        "route": "/GapNoBlockchainIntegrationEthereumPolygonForOnChainProp",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Historical Voting Pattern Analytics",
+    "canonicalKey": "analytic gap historical no pattern voting",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoHistoricalVotingPatternAnalytics"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapNoHistoricalVotingPatternAnalytics.js",
+        "route": "/GapNoHistoricalVotingPatternAnalytics",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Real Time Voting Dashboard Or Live Results",
+    "canonicalKey": "dashboard gap live no or real result time voting",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoRealTimeVotingDashboardOrLiveResults"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapNoRealTimeVotingDashboardOrLiveResults.js",
+        "route": "/GapNoRealTimeVotingDashboardOrLiveResults",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap Proposals Lacks Auto Generate Proposal Or Analyze Proposal L",
+    "canonicalKey": "analyze auto gap generate l lacks or proposal proposals",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapProposalsLacksAutoGenerateProposalOrAnalyzeProposalL"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapProposalsLacksAutoGenerateProposalOrAnalyzeProposalL.js",
+        "route": "/GapProposalsLacksAutoGenerateProposalOrAnalyzeProposalL",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Gap Treasury Lacks AI Scenario Modeling Endpoint Despite Treasur",
+    "canonicalKey": "ai despite endpoint gap lacks modeling scenario treasur treasury",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapTreasuryLacksAiScenarioModelingEndpointDespiteTreasur"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/GapTreasuryLacksAiScenarioModelingEndpointDespiteTreasur.js",
+        "route": "/GapTreasuryLacksAiScenarioModelingEndpointDespiteTreasur",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Governance Evolve",
+    "canonicalKey": "evolve governance",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/governance-evolve"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/governanceEvolve.js:58",
+        "route": "/governance-evolve",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Governance Health",
+    "canonicalKey": "governance health",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/governance-health"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/ai.js:132",
+        "route": "/governance-health",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Governance Rules",
+    "canonicalKey": "governance rule",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/governance-rules"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/customViews.js:191",
+        "route": "/governance-rules",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/customViews.js:195",
+        "route": "/governance-rules",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Governance Timeline",
+    "canonicalKey": "governance timeline",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/governance-timeline"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:12",
+        "route": "/governance-timeline",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Multi Dao Comparison",
+    "canonicalKey": "comparison dao multi",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/multi-dao-comparison"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:277",
+        "route": "/multi-dao-comparison",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Mydashboard",
+    "canonicalKey": "mydashboard",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/mydashboard"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/Header/Header.jsx:22",
+        "route": "/mydashboard",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/mydashboard/index.jsx",
+        "route": "/mydashboard",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Overview",
+    "canonicalKey": "overview",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "navigation",
+      "page"
+    ],
+    "routes": [
+      "/api/overview",
+      "/enz/overview",
+      "/overview",
+      "/summary/overview"
+    ],
+    "sourceProjects": [
+      "AIFamilyOfficeManager",
+      "AiFinancialReportGenerator",
+      "AiTaxPrep",
+      "aiFinancePlatform",
+      "insuranceAgenc",
+      "investment",
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged",
+      "financial-services/aml-transaction-monitoring",
+      "financial-services/freqtrade-merged",
+      "financial-services/grounded-claims",
+      "financial-services/invoice-processing",
+      "financial-services/trading-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/EnzHeader/index.jsx:23",
+        "route": "/enz/overview",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/Header/Header.jsx:26",
+        "route": "/enz/overview",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/overview/index.jsx",
+        "route": "/enz/overview",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AiTaxPrep",
+        "path": "server/routes/dashboard.js:9",
+        "route": "/overview",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "investment",
+        "path": "backend/main.py:294",
+        "route": "/api/overview",
+        "originApp": "financial-services/freqtrade-merged"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "investment",
+        "path": "web/components/nav.tsx:8",
+        "route": "",
+        "originApp": "financial-services/freqtrade-merged"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIFamilyOfficeManager",
+        "path": "frontend/src/components/Sidebar.js:6",
+        "route": "",
+        "originApp": "financial-services/trading-merged"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "insuranceAgenc",
+        "path": "src/components/layout/Sidebar.tsx:138",
+        "route": "",
+        "originApp": "financial-services/grounded-claims"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AiFinancialReportGenerator",
+        "path": "backend/src/routes/cashFlow.js:111",
+        "route": "/summary/overview",
+        "originApp": "financial-services/aml-transaction-monitoring"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "aiFinancePlatform",
+        "path": "frontend/src/components/Sidebar.js:43",
+        "route": "",
+        "originApp": "financial-services/aml-transaction-monitoring"
+      }
+    ]
+  },
+  {
+    "name": "Pages",
+    "canonicalKey": "page",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/index.js",
+        "route": "/",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Proposal Impact",
+    "canonicalKey": "impact proposal",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/proposal-impact"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/ai.js:8",
+        "route": "/proposal-impact",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Proposal Similarity",
+    "canonicalKey": "proposal similarity",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/proposal-similarity"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:149",
+        "route": "/proposal-similarity",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Proposal Summary Pdf",
+    "canonicalKey": "pdf proposal summary",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/proposal-summary-pdf"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/customViews.js:105",
+        "route": "/proposal-summary-pdf",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Proposal Turnout",
+    "canonicalKey": "proposal turnout",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/proposal-turnout"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/customViews.js:25",
+        "route": "/proposal-turnout",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Provide",
+    "canonicalKey": "provide",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/enz/provide"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/EnzHeader/index.jsx:31",
+        "route": "/enz/provide",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/provide/index.jsx",
+        "route": "/enz/provide",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Quorum Rescue Planner",
+    "canonicalKey": "planner quorum rescue",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/QuorumRescuePlanner"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/QuorumRescuePlanner.js",
+        "route": "/QuorumRescuePlanner",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Repay",
+    "canonicalKey": "repay",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/repay"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/repay/index.jsx",
+        "route": "/repay",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Rewards",
+    "canonicalKey": "reward",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/enz/rewards"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/EnzHeader/index.jsx:43",
+        "route": "/enz/rewards",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/rewards/index.jsx",
+        "route": "/enz/rewards",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Stake",
+    "canonicalKey": "stake",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/enz/stake"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/EnzHeader/index.jsx:35",
+        "route": "/enz/stake",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/stake/index.jsx",
+        "route": "/enz/stake",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Tradeswap",
+    "canonicalKey": "tradeswap",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/enz/tradeswap"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/EnzHeader/index.jsx:27",
+        "route": "/enz/tradeswap",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/tradeswap/index.jsx",
+        "route": "/enz/tradeswap",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Treasury Rebalancer",
+    "canonicalKey": "rebalancer treasury",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/treasury-rebalancer"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:347",
+        "route": "/treasury-rebalancer",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Treasury Risk",
+    "canonicalKey": "risk treasury",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/treasury-risk"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/ai.js:75",
+        "route": "/treasury-risk",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Treasury Scenario",
+    "canonicalKey": "scenario treasury",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/treasury-scenario"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/treasuryScenario.js:58",
+        "route": "/treasury-scenario",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Voter Education",
+    "canonicalKey": "education voter",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/voter-education"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:202",
+        "route": "/voter-education",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/voterEducation.js:58",
+        "route": "/voter-education",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Voter Heatmap",
+    "canonicalKey": "heatmap voter",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/voter-heatmap"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/customViews.js:67",
+        "route": "/voter-heatmap",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Voting Alerts",
+    "canonicalKey": "alert voting",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/voting-alerts"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/aiNew.js:416",
+        "route": "/voting-alerts",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Voting Prediction",
+    "canonicalKey": "prediction voting",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/voting-prediction"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/ai.js:46",
+        "route": "/voting-prediction",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Withdraw",
+    "canonicalKey": "withdraw",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/withdraw"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/withdraw/index.jsx",
+        "route": "/withdraw",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Yield",
+    "canonicalKey": "yield",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/enz/yield"
+    ],
+    "sourceProjects": [
+      "my-aave-next-figma"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/components/Layout/EnzHeader/index.jsx:39",
+        "route": "/enz/yield",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "my-aave-next-figma",
+        "path": "src/pages/enz/yield/index.jsx",
+        "route": "/enz/yield",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  }
+]
