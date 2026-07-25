@@ -104,6 +104,32 @@
     ]
   },
   {
+    "name": "Auto Generate Proposal Draft",
+    "canonicalKey": "auto draft generate proposal",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/AINewToolsPage?tool=auto-generate-proposal"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/AINewToolsPage.js:19",
+        "route": "/AINewToolsPage?tool=auto-generate-proposal",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
     "name": "Borrow",
     "canonicalKey": "borrow",
     "aliases": [],
@@ -360,6 +386,32 @@
     ]
   },
   {
+    "name": "Dao Health Snapshot",
+    "canonicalKey": "dao health snapshot",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/AINewToolsPage?tool=dao-summary"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/AINewToolsPage.js:35",
+        "route": "/AINewToolsPage?tool=dao-summary",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
     "name": "Dao Summary",
     "canonicalKey": "dao summary",
     "aliases": [],
@@ -546,9 +598,11 @@
     "canonicalKey": "event summary",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/AINewToolsPage?tool=events-summary",
       "/events-summary"
     ],
     "sourceProjects": [
@@ -558,6 +612,13 @@
       "financial-services/aave-protocol-v2-merged"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/AINewToolsPage.js:46",
+        "route": "/AINewToolsPage?tool=events-summary",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
       {
         "kind": "api",
         "sourceProject": "AIDAOGovernanceAssistant",
@@ -1055,6 +1116,32 @@
         "sourceProject": "AIDAOGovernanceAssistant",
         "path": "backend/routes/ai.js:8",
         "route": "/proposal-impact",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Proposal Language Analyzer",
+    "canonicalKey": "analyzer language proposal",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/AINewToolsPage?tool=analyze-proposal-language"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "frontend/src/pages/AINewToolsPage.js:5",
+        "route": "/AINewToolsPage?tool=analyze-proposal-language",
         "originApp": "financial-services/aave-protocol-v2-merged"
       }
     ]

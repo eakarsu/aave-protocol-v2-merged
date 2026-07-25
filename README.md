@@ -3,7 +3,7 @@
 Industry: **Financial Services**  
 Specialization: **Aave Protocol V2**
 
-This standalone application consolidates source-backed capabilities into 56 optimized features, including 31 visible data-backed or AI-enabled views. Its public demo SQLite database contains 0 sanitized source rows across 0 imported tables and 120 operational workflow records.
+This standalone application consolidates source-backed capabilities into 59 optimized features, including 4 visible data-backed or AI-enabled views. Its public demo SQLite database contains 0 sanitized source rows across 0 imported tables and 120 operational workflow records.
 
 ## Run locally
 
