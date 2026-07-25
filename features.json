@@ -1,38 +1,5 @@
 [
   {
-    "name": "44",
-    "canonicalKey": "44",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "m/44"
-    ],
-    "sourceProjects": [
-      "aave-protocol-v2"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/aave-protocol-v2-merged"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "aave-protocol-v2",
-        "path": "buidler.config.ts:102",
-        "route": "m/44",
-        "originApp": "financial-services/aave-protocol-v2-merged"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "aave-protocol-v2",
-        "path": "hardhat.config.ts:199",
-        "route": "m/44",
-        "originApp": "financial-services/aave-protocol-v2-merged"
-      }
-    ]
-  },
-  {
     "name": "Addnetwork",
     "canonicalKey": "addnetwork",
     "aliases": [],
@@ -576,7 +543,7 @@
   },
   {
     "name": "Events Summary",
-    "canonicalKey": "events summary",
+    "canonicalKey": "event summary",
     "aliases": [],
     "kinds": [
       "api"
@@ -602,7 +569,7 @@
   },
   {
     "name": "Gap Daos Events Lack AI Endpoints",
-    "canonicalKey": "ai daos endpoint events gap lack",
+    "canonicalKey": "ai daos endpoint event gap lack",
     "aliases": [],
     "kinds": [
       "page"
@@ -628,7 +595,7 @@
   },
   {
     "name": "Gap Limited Governance Platform Integrations No Snapshot Aragon",
-    "canonicalKey": "aragon gap governance integrations limited no snapshot",
+    "canonicalKey": "aragon gap governance integration limited no snapshot",
     "aliases": [],
     "kinds": [
       "page"
@@ -732,7 +699,7 @@
   },
   {
     "name": "Gap Proposals Lacks Auto Generate Proposal Or Analyze Proposal L",
-    "canonicalKey": "analyze auto gap generate l lacks or proposal proposals",
+    "canonicalKey": "analyze auto gap generate l lack or proposal",
     "aliases": [],
     "kinds": [
       "page"
@@ -758,7 +725,7 @@
   },
   {
     "name": "Gap Treasury Lacks AI Scenario Modeling Endpoint Despite Treasur",
-    "canonicalKey": "ai despite endpoint gap lacks modeling scenario treasur treasury",
+    "canonicalKey": "ai despite endpoint gap lack modeling scenario treasur treasury",
     "aliases": [],
     "kinds": [
       "page"
@@ -962,7 +929,6 @@
       "page"
     ],
     "routes": [
-      "/api/overview",
       "/enz/overview",
       "/overview",
       "/summary/overview"
@@ -973,13 +939,11 @@
       "AiTaxPrep",
       "aiFinancePlatform",
       "insuranceAgenc",
-      "investment",
       "my-aave-next-figma"
     ],
     "consolidatedFromApps": [
       "financial-services/aave-protocol-v2-merged",
       "financial-services/aml-transaction-monitoring",
-      "financial-services/freqtrade-merged",
       "financial-services/grounded-claims",
       "financial-services/invoice-processing",
       "financial-services/trading-merged"
@@ -1012,20 +976,6 @@
         "path": "server/routes/dashboard.js:9",
         "route": "/overview",
         "originApp": "financial-services/invoice-processing"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "investment",
-        "path": "backend/main.py:294",
-        "route": "/api/overview",
-        "originApp": "financial-services/freqtrade-merged"
-      },
-      {
-        "kind": "navigation",
-        "sourceProject": "investment",
-        "path": "web/components/nav.tsx:8",
-        "route": "",
-        "originApp": "financial-services/freqtrade-merged"
       },
       {
         "kind": "navigation",
@@ -1301,6 +1251,32 @@
         "sourceProject": "my-aave-next-figma",
         "path": "src/pages/enz/rewards/index.jsx",
         "route": "/enz/rewards",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      }
+    ]
+  },
+  {
+    "name": "Signing Request",
+    "canonicalKey": "request signing",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/signing-request"
+    ],
+    "sourceProjects": [
+      "AIDAOGovernanceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDAOGovernanceAssistant",
+        "path": "backend/routes/governedProposals.js:5",
+        "route": "/:id/signing-request",
         "originApp": "financial-services/aave-protocol-v2-merged"
       }
     ]
